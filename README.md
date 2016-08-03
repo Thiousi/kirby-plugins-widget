@@ -18,7 +18,7 @@ More info about Kirby can be found at http://getkirby.com
 - Download the .zip and place the ```plugins``` folder (located in ```site\widgets```) in your own ```widgets``` folder.
 - Copy / paste the settings from ```site\config\config_example.php``` in your own ```config\config_example.php``` file *).
 
-*). Note - at default these settings are correct.
+*) **note** - at default these settings are correct.
 
 If you need to change the default path of your plugins-folder, you can change the `plugins-widget` setting in this file.
 
