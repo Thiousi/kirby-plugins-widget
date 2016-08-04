@@ -16,7 +16,7 @@ More info about Kirby can be found at http://getkirby.com
 ##Installation##
 
 - Download the .zip and place the ```plugins``` folder (located in ```site\widgets```) in your own ```widgets``` folder.
-- Copy / paste the settings from ```site\config\config_example.php``` in your own ```config\config_example.php``` file *).
+- Copy / paste the settings from ```site\config\config_example.php``` in your own ```config\config.php``` file *).
 
 *) **note** - at default these settings are correct.
 
